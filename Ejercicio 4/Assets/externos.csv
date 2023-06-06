@@ -1,0 +1,5 @@
+dni;nombre;direccion;telefono;fecha_inicio;fecha_fin;tarea;monto_viatico;costo_obra;monto_seguro
+12345678;Juan Pérez;Calle 123, Ciudad A;123-456-7890;2023-05-01;2023-05-05;Electricista;10000;25000;5000
+23456789;María López;Avenida 456, Ciudad B;234-567-8901;2023-05-03;2023-05-10;Plomero;7500;180000;4000
+34567890;Pedro García;Carrera 789, Ciudad C;345-678-9012;2023-05-06;2023-05-09;Carpintero;12000;30000;60000
+45678901;Ana Torres;Calle 012, Ciudad D;456-789-0123;2023-05-02;2023-05-08;Pintor;9000;20000;4500

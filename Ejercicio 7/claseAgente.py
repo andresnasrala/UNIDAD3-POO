@@ -26,5 +26,5 @@ class Agente:
     def getAntiguedad(self):
         return self.__antiguedad   
     
-    def getApellidoyNombre(self):
-        return self.__apellido+" "+self.__nombre
+     def __str__(self):
+        return f"{self.__apellido}, {self.__nombre}"

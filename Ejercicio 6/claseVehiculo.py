@@ -60,7 +60,7 @@ class Vehiculo:
     def calcular_importe_venta_usado(self):
         precio_venta = self.precio_base_venta
         if self.anio:
-            precio_venta -= (2023 - self.anio) * 1000  # Restar 1000 por cada año de antigüedad
+            precio_venta -= (2023 - self.anio) * 1000  
         if self.kilometraje:
             precio_venta -= self.kilometraje * 0.1  
         return precio_venta
